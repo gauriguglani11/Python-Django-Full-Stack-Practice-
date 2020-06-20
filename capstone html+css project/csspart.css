@@ -1,0 +1,52 @@
+body{
+  background-color: #173f5f;
+  text-align: center;
+  border: 40px solid red;
+  color: white;
+}
+
+form{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+#three{
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+#four{
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+#one{
+  font-size: 50px;
+}
+
+#two{
+  font-size: 35px;
+}
+input[type=text] {
+  width: 75%
+  padding: 40px 20px;
+  margin:auto;
+}
+
+#five{
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+input[type=Submit]{
+  background-color: #FFC300;
+  border-radius: 20px;
+  border-width: thick;
+}

@@ -1,0 +1,31 @@
+body{
+  background-color: rgba(135,206,250);
+}
+
+.yes{
+  background-color: yellow;
+}
+
+h2{
+  color: purple;
+}
+
+textarea{
+  border: 5px solid gray;
+  width: 400px;
+  height: 800px;
+
+}
+
+a{
+  color: red;
+}
+
+.bonus{
+
+  border: 4px dashed yellow;
+}
+
+a:visited{
+  color:blue;
+}

@@ -1,0 +1,13 @@
+.img-Responsive
+{
+     height:250px;
+    width:100%;
+    border-radius: 50px;
+    margin: 20px;
+
+}
+
+.img-fluid{
+  width: 100%;
+  height: auto;
+}
